@@ -5,3 +5,8 @@ body {
 .article {
 	color: yellow;
 }
+
+.image {
+	height: 100px;
+	width: 100px;
+}
